@@ -1,0 +1,90 @@
+body {
+	width: 100%;
+	height: 100%;
+	background-image: url("../Images/Pictures/backgroundpic3.jpg");
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+#indexlogindiv {
+	margin: 0 auto;
+	position: absolute;
+	top: 50%;
+	left: 40%;
+	width: 400px;
+	height: 270px;
+	margin-top: 4px;
+	margin-left: 4px;
+	margin-bottom: 4px;
+	margin-right: 4px;
+	border-top: 4px solid white;
+	border-left: 4px solid white;
+	border-right: 4px solid white;
+	border-bottom: 4px solid white;
+	border-radius: 8px;
+	/* text-shadow: 1px 1px 1px; */
+	/* margin-left: 15.5;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px; */
+	margin: -20px 0 0 -75px;
+	/* background-color: transparent; */
+	background-image: url("../Images/Pictures/logindivpic1.jpg");
+}
+
+h1 {
+	font-size: 65px;
+	font-weight: 300;
+	color: white;
+	font-family: "华文行楷";
+	font-style: italic;
+}
+
+h2 {
+	font-size: 35px;
+	font-weight: 300;
+	color: white;
+	font-family: "华文行楷";
+	font-style: italic;
+}
+
+hr {
+	width: 1300px;
+	height: 10px;
+	background-color: 	 white;
+;
+	border-color: white;
+	border:4px;
+	
+}
+
+input {
+	width: 278px;
+	height: 18px;
+	margin-bottom: 10px;
+	outline: none;
+	padding: 10px;
+	font-size: 13px;
+	color: #fff;
+	/* text-shadow: 1px 1px 1px; */
+	/* border-top: 1px solid #63e8ef;
+	border-left: 1px solid #63e8ef;
+	border-right: 1px solid #63e8ef;
+	border-bottom: 1px solid #63e8ef; */
+	border-radius: 4px;
+	background-color: #63e8ef;
+}
+
+form {
+	border: 1px;
+	width: 350px;
+	height: 150px;
+	margin-top: 60px;
+	margin-left: 10px;
+}
+
+#logintd {
+	width: 350px;
+	height: 50px;
+}
